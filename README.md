@@ -75,7 +75,9 @@ Recommendation Approach
 - Step 5: Compute Cosine Similarity → Top 5 most similar restaurants were recommended.
   
 Challenges & Future Work
-Successes: Achieved relevant recommendations with a structured approach.
+
+- Successes: Achieved relevant recommendations with a structured approach.
+  
 Challenges: 
 -       Some cuisines were rare in certain cities, limiting recommendation diversity and number
 -       Also experienced difficulty in ordering the features for filtering to obtain optimal results
