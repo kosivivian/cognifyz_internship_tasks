@@ -88,6 +88,7 @@ Improvements:
 
 TASK 3: Cuisine Classification Model
 The task was to build a model to classify restaurants based on their cuisines.
+
 Data Preprocessing
 - Encoding:
 - Label Encoding for "City."
