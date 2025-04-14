@@ -1,5 +1,6 @@
 # cognifyz_internship_tasks
 MY FIRST MACHINE LEARNING INTERNSHIP
+
 MACHINE LEARNING INTERNSHIP TASKS
 Introduction
 Food is one of the three basic human needs, and the restaurant industry has become a competitive global market, with an estimated 15 million restaurants worldwide. Understanding competition and key success factors is crucial for anyone entering this business.
@@ -18,10 +19,10 @@ Data Preprocessing
 One-Hot Encoding: Applied to "Country Code," "Currency," "Has Table Booking," "Has Online Delivery," and "Switch to Order Menu."
 Label Encoding: Applied to "City" due to its high cardinality.
 MultiLabelBinarizer: Used for "Cuisines" to handle multiple cuisines per restaurant.
-Feature Selection:
-Some columns were dropped due to redundancy or irrelevance:
-Dropped: Restaurant ID, Name, Address, Locality, Longitude, Latitude, Rating Color, Rating Text.
-Kept: Country Code, City, Cuisines, Average Cost for Two, Currency, Has Table Booking, Price Range, Has Online Delivery, Votes.
+Feature Selection:
+Some columns were dropped due to redundancy or irrelevance:
+Dropped: Restaurant ID, Name, Address, Locality, Longitude, Latitude, Rating Color, Rating Text.
+Kept: Country Code, City, Cuisines, Average Cost for Two, Currency, Has Table Booking, Price Range, Has Online Delivery, Votes.
 
 Exploratory Data Analysis (EDA)
 Correlations: 
